@@ -102,7 +102,7 @@ def region_road(address):
                 if ka.non_check(document['road_address']) :
                     val = document['road_address']['address_name']
                 else :
-                    return 'non'
+                    return None
                 
             return val
                 
@@ -126,4 +126,4 @@ def region_road(address):
         return val
 
     else :
-        return str(type(address))
+        return None

@@ -87,6 +87,9 @@ def xy_addr(x, y) :
          
         except IndexError:
             return
+        
+        except KeyError:
+            return
    
     
     return val
