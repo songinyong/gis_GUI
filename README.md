@@ -27,7 +27,7 @@ Python 3.8, PyQt5, Pyinstaller
 
 버전 0.2
 
-csv나 excel파일을 읽어와 대용량 처리가능하도록 업데이트
+csv나 excel파일을 읽어와 대용량 처리가능하고 파일로 내려받을 수 있도록 업데이트
 
 
 버전 0.1
@@ -39,5 +39,6 @@ csv나 excel파일을 읽어와 대용량 처리가능하도록 업데이트
 
 
 프로그램 다운로드 주소
-*용량 최적화 작업 진행중이라 배포가 잠시 중단되었습니다.
-https://dull-plough-973.notion.site/GIS-958973e971f44ae7a2c8fcb2f5eb8c5b
+*현재 용량 최적화 작업 진행중입니다.
+*pyinstaller 특성상 백신이 바이러스 파일로 인식하는 경우가 있어 해결중입니다.
+https://drive.google.com/drive/folders/1uBwcPfNTtioAw4fI5oNxddMSkK8xJ3i9
